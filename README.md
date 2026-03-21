@@ -10,7 +10,7 @@
 
 ## 🛠️ Стек / Tech Stack
 - **Languages:** C#, Bash, Python (basics)
-- **OS:** Linux Kali, Windows
+- **OS:** Kali Linux, Windows 11
 - **Tools:** Nmap, Netcat, Metasploit, Gobuster
 - **Hardware:** Dell PowerEdge R730 || HP dl385 (coming soon 🚀)
 
