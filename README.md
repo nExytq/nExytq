@@ -1,16 +1,23 @@
-## Hi there 👋
+# Привет, я nExytq! 👋
+### Будущий Security Architect | C# Developer | Home Lab Enthusiast
 
-<!--
-**nExytq/nExytq** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## 📱 Контакты / Socials
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/nexytq)
+[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/nexcute)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🛠️ Стек / Tech Stack
+- **Languages:** C#, Bash, Python (basics)
+- **OS:** Linux (Ubuntu/Kali), Windows Server
+- **Tools:** Nmap, Netcat, Metasploit, Gobuster
+- **Hardware:** Dell PowerEdge R730 (coming soon 🚀)
+
+---
+
+## 📈 Мой путь в ИБ
+- [✔] Пройти RootMe на TryHackMe
+- [✖] Поступить в Т-Образование
+- [✖] Купить и настроить серверную стойку
