@@ -5,6 +5,7 @@
 ## 📱 Контакты / Socials
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/nexytq)
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/nexcute)
+[![TryHackMe](https://img.shields.io/badge/TryHackMe-FF0000?style=for-the-badge&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/nExytq)
 
 ---
 
