@@ -12,12 +12,9 @@
 ## 🛠️ Стек / Tech Stack
 - **Languages:** C#, Bash, Python (basics)
 - **OS:** Kali Linux, Windows 11
-- **Tools:** Nmap, Netcat, Metasploit, Gobuster
-- **Hardware:** Dell PowerEdge R730 || HP dl385 (coming soon 🚀)
+- **Tools:** Nmap, Netcat, Metasploit, Gobuster(ну ещё там много всяких)
 
 ---
 
 ## 📈 Мой путь в ИБ
-- [✔] Пройти medium комнату на TryHackMe
-- [✖] Поступить в Т-Образование
-- [✖] Купить и настроить серверную стойку
+В лом честно всё это придумывать, но короче да.
