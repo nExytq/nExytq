@@ -1,5 +1,5 @@
 # Привет, я nExytq! 👋
-### Желаю стать в будующем Cybersecurity engineer/architect | C# Developer | Home Lab(скоро будет)
+### школобессссс
 ---
 
 ## 📱 Контакты / Socials
