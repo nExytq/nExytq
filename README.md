@@ -6,6 +6,7 @@
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/nexytq)
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/nexcute)
 [![TryHackMe](https://img.shields.io/badge/TryHackMe-212c42?style=for-the-badge&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/nExytq)
+<a href="https://ctftime.org/team/436822" target="_blank"><img src="https://img.shields.io/badge/CTFtime-000000?style=for-the-badge&logo=ctftime&logoColor=white" alt="CTFtime"></a>
 
 ---
 
